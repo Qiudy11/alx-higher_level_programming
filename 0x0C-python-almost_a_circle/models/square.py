@@ -8,7 +8,7 @@ from models.rectangle import Rectangle
 
 
 class Square(Rectangle):
-    """Class describing a square.
+    """Class describing  square.
     Public instance methods:
         - area()
         - display()
