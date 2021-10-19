@@ -7,7 +7,7 @@ from models.base import Base
 
 
 class Rectangle(Base):
-    """Class describing a rectangle.
+    """Class describing  rectangle.
     Public instance methods:
         - area()
         - display()
